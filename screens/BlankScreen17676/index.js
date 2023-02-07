@@ -1,8 +1,9 @@
-
 import React from "react";
 import { View, StyleSheet } from "react-native";
 
-const BlankScreen17676 = () => {
+const BlankScreen17676 = ({
+  navigation
+}) => {
   return <View style={_styles.BlankScreen17676}>
       </View>;
 };
